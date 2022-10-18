@@ -1,2 +1,15 @@
-v = [2,4,6,8,10,12]
-print(v[0] + "" + v[1])
+# game loop
+while 1:
+    enemy_1 = input()  # name of enemy 1
+    dist_1 = int(input())  # distance to enemy 1
+    enemy_2 = input()  # name of enemy 2
+    dist_2 = int(input())  # distance to enemy 2
+
+    if dist_1 < dist_2:
+        print(enemy_1)
+    else:
+        print(enemy_2)
+
+    # Write an action using print
+
+    # Enter the code hereeasy
