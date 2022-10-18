@@ -1,4 +1,2 @@
-num1 = int(input('Digite um número: '))
-num2 = int(input('Digete outro número: '))
-media = (num1 + num2) / 2
-print('A media de {} mais {} e igual a {}' .format(num1,num2,media))
+v = [2,4,6,8,10,12]
+print(v[0] + "" + v[1])
