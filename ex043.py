@@ -33,3 +33,4 @@ else:
     print('Você está em condição de obsedidade mórbida')
 
 
+
