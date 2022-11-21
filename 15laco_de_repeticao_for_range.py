@@ -25,23 +25,23 @@
 
 ################################################################
 
-# for numero in range(0, 11):
-#     print(numero, end=" ")
+for numero in range(0, 11):
+    print(numero, end=" ")
 
 ################################################################
 
 # Exemplo utilizando o iterável
 
-for letra in texto:
-    if letra.upper() in vogais:
-        print(letra, end="")
-else:
-    print() 
+# for letra in texto:
+#     if letra.upper() in vogais:
+#         print(letra, end="")
+# else:
+#     print() 
 
-# Exemplo utilizando a função built- in range 
+# # Exemplo utilizando a função built- in range 
 
-for numero in range(0, 51, 5):
-    print(numero, end=" ")
+# for numero in range(0, 51, 5):
+#     print(numero, end=" ")
 
 
 

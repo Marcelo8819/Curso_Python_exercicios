@@ -5,16 +5,18 @@ um objeto interável.'''
 # for i in "Python":
 #     print(i)
 
-# num = [1,5,6,7]
+################################
 
-# for j in num:
-#     print(j)
+num = [1,5,6,7]
 
-texto = ""
-vogais = "AEIOU"
+for j in num:
+    print(j)
 
-for letra in texto:
-    if letra.upper() in vogais:
-        print(letra, end="")
-else:
-    print() 
+# texto = ""
+# vogais = "AEIOU"
+
+# for letra in texto:
+#     if letra.upper() in vogais:
+#         print(letra, end="")
+# else:
+#     print() 
